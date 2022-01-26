@@ -1,0 +1,49 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Swift là một ngôn ngữ lập trình hướng đối tượng dành cho việc phát triển iOS và macOS, watchOS, tvOS, Linux, và z/OS. được giới thiệu bởi Apple tại hội nghị WWDC 2014",
+      "name": "Swift"
+    },
+    {
+      "id": 2,
+      "title": "Python là một ngôn ngữ lập trình bậc cao cho các mục đích lập trình đa năng, do Guido van Rossum tạo ra và lần đầu ra mắt vào năm 1991",
+      "name": "Python"
+    },
+    {
+      "name": "HTML",
+      "title": "HTML là một ngôn ngữ đánh dấu được thiết kế ra để tạo nên các trang web trên World Wide Web. Nó có thể được trợ giúp bởi các công nghệ như CSS và các ngôn ngữ kịch bản giống như JavaScript.",
+      "id": 3
+    },
+    {
+      "name": "Bootstrap",
+      "title": "Được dịch từ tiếng Anh-Bootstrap là một khuôn khổ CSS mã nguồn mở và miễn phí hướng đến phát triển web front-end đáp ứng trên thiết bị di động. Nó chứa các mẫu thiết kế dựa trên CSS và JavaScript cho kiểu chữ, biểu mẫu, nút, điều hướng và các thành phần giao diện khác",
+      "id": 5
+    },
+    {
+      "name": "PHP",
+      "title": "PHP là một ngôn ngữ có ưu điểm nổi  bật là mã nguồn mở. Nhờ vậy mà bạn có thể tuỳ ý sử dụng  những  kho thư viện tiện ích lập trình web miễn phí. Ngoài ra, nó còn có thể chủ động hiệu chỉnh các CMS có sẵn như: WordPress, Joomla,.. để có thể tạo được một website theo ý mình. ",
+      "id": 6
+    },
+    {
+      "name": "HTML5",
+      "title": "Bản chất HTML5 không phải là ngôn ngữ lập trình, nó chỉ là ngôn ngữ đánh dấu siêu văn bản. Tuy nhiên, cốt lõi của các công nghệ dựa trên web được tạo nên từ HTML. Toàn bộ các website hiện nay đều được xây dựng dựa trên nền tảng của HTML.",
+      "id": 7
+    },
+    {
+      "name": "Java",
+      "title": "Java là một loại ngôn ngữ lập trình rất ưu việt cho nhiều nền tảng khác nhau. Bạn chỉ cần viết một lần, sau đó có thể sử dụng đoạn code đó cho bất cứ nền tảng Linux, Mac OS và Windows",
+      "id": 8
+    },
+    {
+      "name": "C",
+      "title": "Ngôn ngữ lập trình C là một ngôn ngữ lập trình cơ bản mà hầu hết các lập trình viên đều phải học qua như là một bài học nhập môn. Nó có thể gọi là ông tổ của các ngôn ngữ lập trình bậc cao.",
+      "id": 9
+    },
+    {
+      "name": "C#",
+      "title": "C# là sản phẩm của Microsoft, cùng với đó là sự hỗ trợ mạnh mẽ .NET Framework đã tạo ra một hệ sinh thái khổng lồ.     Với C# người dùng có thể tạo các website bằng MVC .NET, WebForm, và các ứng dụng trên điện thoại di động.",
+      "id": 10
+    }
+  ]
+}
